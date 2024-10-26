@@ -1,0 +1,35 @@
+************************************************************************************************************************************************************************
+************************************************************************************************************************************************************************
+                                                                            MAC Lock
+                                                                          Archisman Das
+************************************************************************************************************************************************************************
+************************************************************************************************************************************************************************
+
+
+Kensington Lock or K Lock is the most commonly found Security port in Notebooks, Laptops and MAC devices to secure the device physically. Libraries and Cafes are the
+places where people need to secure their device when they are going out, taking a break or just going for some work. But the Kensington Locks these Libraries or Cafes
+provide have some problem.
+
+
+Problem:
+The Kensington Lock have multiple keys, and anyone with a duplicate key can technically steal your device. It’s just like asking for a lock from your neighbor and
+locking your house. (Security is not guaranteed)
+
+
+Effect:
+Due to this problem, in spite of being such a good Security Lock, Kensington Locks are not mostly used in today’s world. Notebooks, Laptops and MAC devices still
+provide this K Slot as an abandon feature with most users not knowing its usage.
+
+
+Solution:
+To solve this problem, I made an innovative model that makes use of K Slot of your Laptop and your device absolutely hard to steal. Every Laptop has a MAC ADDRESS
+that cannot be replicated and is unique to every pc. This Model searches for MAC ADDRESS (when device is unlocked) and when the lock is connected to your device
+through the USB PORT. Then it allows you to set a password. This will ensure NO PHYSICAL KEY EXCHANGE resulting to more security.
+
+
+Problems Solved:
+1. Multiple Devices can connect and use the lock, one after another, without exchange of physical keys.
+2. Two Factor authentication is required as you need to unlock the device first to unlock the lock.
+3. No one except you knows the password, so no worries about spare keys.
+4. No handling of physical keys ensure longer Life span and security of lock.
+5. The unique MAC ADDRESS or your device is unknown to anybody and hence hard to breach.
